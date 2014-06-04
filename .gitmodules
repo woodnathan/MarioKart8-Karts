@@ -1,0 +1,3 @@
+[submodule "MarioKart8-Stats"]
+	path = MarioKart8-Stats
+	url = git@github.com:woodnathan/MarioKart8-Stats.git
